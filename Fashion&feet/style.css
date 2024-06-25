@@ -132,7 +132,7 @@ button:hover {
 .container3 {
     width: 100%;
     height: 100vh;
-    background-image: url('/Fashion&feet/images/No-Wahala-By-Yannis-Guibinga.jpeg');
+    background-image: url('/images/No-Wahala-By-Yannis-Guibinga.jpeg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -221,38 +221,38 @@ button:hover {
 
 /* Background images for models */
 #name1 {
-    background-image: url('/Fashion&feet/images/model1.webp');
+    background-image: url('/images/model1.webp');
     background-position: center;
     background-size: cover;
     color: #000;
 }
 
 #name2 {
-    background-image: url('/Fashion&feet/images/Black-male-model-fashion-photoshoot-10-683x1024.jpg');
+    background-image: url('/images/Black-male-model-fashion-photoshoot-10-683x1024.jpg');
     background-position: center;
     background-size: cover;
 }
 
 #name3 {
-    background-image: url('images/f4c4376966a683a8290b754da1aa2026.jpg');
+    background-image: url('/images/f4c4376966a683a8290b754da1aa2026.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #name4 {
-    background-image: url('/Fashion&feet/images/blackmodel.jpg');
+    background-image: url('/images/blackmodel.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #name5 {
-    background-image: url('/Fashion&feet/images/matt mcfate-01.jpg');
+    background-image: url('/images/matt\ mcfate-01.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #name6 {
-    background-image: url('/Fashion&feet/images/model3.webp');
+    background-image: url('/images/model3.webp');
     background-size: cover;
     background-position: center;
     color: #000;
@@ -467,7 +467,7 @@ footer {
     .container3 {
         width: 100%;
         height: 55vh;
-        background-image: url(/Fashion&feet/images/No-Wahala-By-Yannis-Guibinga.jpeg);
+        background-image: url('/images/No-Wahala-By-Yannis-Guibinga.jpeg');
         background-size: cover;
         background-position: center;
         display: flex;
@@ -657,7 +657,7 @@ button {
     .container3 {
         width: 100%;
         height: 55vh;
-        background-image: url(/Fashion&feet/images/No-Wahala-By-Yannis-Guibinga.jpeg);
+        background-image: url('/images/No-Wahala-By-Yannis-Guibinga.jpeg');
         background-size: cover;
         background-position: center;
         display: flex;
